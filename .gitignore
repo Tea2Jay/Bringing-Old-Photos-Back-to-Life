@@ -12,3 +12,4 @@ Global/detection_models/sync_batchnorm/*
 
 Global/global_checkpoints/checkpoints/detection/FT_Epoch_latest.pt
 Face_Detection/shape_predictor_68_face_landmarks.dat
+tmp/
