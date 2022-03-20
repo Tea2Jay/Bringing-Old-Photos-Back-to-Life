@@ -9,6 +9,9 @@ Global/global_checkpoints/checkpoints/restoration/*
 Face_Enhancement/face_checkpoints/checkpoints/*
 Face_Enhancement/sync_batchnorm/*
 Global/detection_models/sync_batchnorm/*
+Global/checkpoints
+Face_Enhancement/checkpoints
+Face_Enhancement/models
 
 Global/global_checkpoints/checkpoints/detection/FT_Epoch_latest.pt
 Face_Detection/shape_predictor_68_face_landmarks.dat
